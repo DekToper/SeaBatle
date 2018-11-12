@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\діма\source\repos\project166\project166\source.cpp(62): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\діма\source\repos\project166\project166\source.cpp(218): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+c:\users\діма\source\repos\project166\project166\source.cpp(276): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\діма\source\repos\project166\project166\source.cpp(406): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\діма\source\repos\project166\project166\source.cpp(828): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\діма\source\repos\project166\project166\source.cpp(908): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project166.vcxproj -> C:\Users\Діма\source\repos\Project166\Debug\Project166.exe
